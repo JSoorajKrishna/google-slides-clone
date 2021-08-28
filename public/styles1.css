@@ -1,0 +1,22 @@
+div{
+    width: 1000px;
+    height: 500px;
+    background-color: white;
+    border: 1px solid black;
+}
+html{
+    background-color: grey;
+}
+textarea{
+    margin: 10px;
+    width: 900px;
+    height: 450px;
+    max-height: 450px;
+    max-width: 900px;
+}
+div.outer{
+    padding: 20px;
+}
+section{
+    position: fixed;
+}
