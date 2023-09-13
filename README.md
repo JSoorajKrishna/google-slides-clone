@@ -1,1 +1,2 @@
-# JSoorajKrishna_Hackathon.github.io
+# Google slides clone
+Delta Force (Development club of NIT Trichy) hackathon task.
